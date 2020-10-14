@@ -1,0 +1,46 @@
+﻿body
+{
+    background-color: #ffffcc;
+}
+h1
+{
+    color: #ff0066;
+}
+p
+{
+    color:  #33cccc;
+    font-family: 'Philosopher', sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+}
+ol
+{
+    color: #0059b3;
+}
+table
+{
+    color: #cc33a6;
+    font-family: 'Roboto', sans-serif;
+    font-style: italic;
+}
+th
+{
+    color: #ff471a;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold
+}
+legend
+{
+    color: #b300b3;
+    font-family: 'Yeseva One', cursive;
+}
+fieldset h2
+{
+    color:#33cc33;
+}
+fieldset ul
+{
+    color: #b300b3;
+    font-family: 'Yeseva One', cursive;
+    font-style: italic;
+}c
